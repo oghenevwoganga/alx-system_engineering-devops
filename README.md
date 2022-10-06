@@ -1,1 +1,1 @@
-A readme file for shell basics task repo
+Linux shell basics and shell permissions
