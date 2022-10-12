@@ -1,1 +1,1 @@
-Linux shell basics and shell permissions
+Shell basics, redirection and init tasks
